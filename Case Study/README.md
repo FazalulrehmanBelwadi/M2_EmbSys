@@ -1,6 +1,6 @@
 # **SMALL LEVEL CASE STUDY : ENERGY METER**
 
-## INTRODUCTION
+# INTRODUCTION
 Electric meter or energy meter is a device that measures the amount of electrical energy consumed. The most common unit of measurement on the electricity measurement is the kilowatt hour [kWh], which is equal to the amount of energy used by a load of one kilowatt hour over a period of one hour.
 
 # REQUIREMENTS
