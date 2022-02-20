@@ -4,6 +4,7 @@
 Electric meter or energy meter is a device that measures the amount of electrical energy consumed. The most common unit of measurement on the electricity measurement is the kilowatt hour [kWh], which is equal to the amount of energy used by a load of one kilowatt hour over a period of one hour.
 
 # BLOCK DIAGRAM
+![Drawing](https://user-images.githubusercontent.com/99134492/154836005-d2eeeda9-46fc-4360-9e81-7d2e43f67334.png)
 
 
 ## Components
@@ -64,3 +65,5 @@ Electric meter or energy meter is a device that measures the amount of electrica
 * For this reason, we have used a ±5 volt power supply.  
 
 # Flow chart for energy meter  
+
+![Drawing1 (1)](https://user-images.githubusercontent.com/99134492/154836017-94410720-7d67-4c79-b855-49f618d75291.png)
