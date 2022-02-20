@@ -81,6 +81,7 @@ Fitness tracker watch is a device for monitoring and tracking fitness-related me
 
 ## BLOCK DIAGRAM
 
+![Drawing2](https://user-images.githubusercontent.com/99134492/154841270-c15c22e9-0318-4b48-8d4c-c0f526648874.jpeg)
 
 ## COMPONENTS OF BLOCK DIAGRAM
 
