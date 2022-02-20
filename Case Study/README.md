@@ -79,7 +79,28 @@ Electric meter or energy meter is a device that measures the amount of electrica
 
 Fitness tracker watch is a device for monitoring and tracking fitness-related metrics such as distance walked or run, calorie consumption, and in some cases heartbeat. It is a type of wearable computer. The term is now primarily used for smartwatches that are synced, in many cases wirelessly, to a computer or smartphone for long-term data tracking.
 
-## BLOCK DIAGRAM
+# Requirements
+
+## High level requirements:
+
+|RID	|DESCRIPTION |
+|---- |----|
+|HLR1	|To measure heart rate for user |
+|HLR2	|To monitor Blood pressure of user |
+|HLR3	|To detect and count steps of the user while walking |
+|HLR4	|Alert the user for rise in skin tempreture |
+|HLR5	|Respond to the Gesture of user |
+
+## Low Level Requirement:
+|RID	|DESCRIPTION |
+|---- |----|
+|LLR1	|Keeping track of time |
+|LLR2	|Indicating Baterry Percentage|
+|LLR3	|Find My Device|
+|LLR4	|Alarm feature|
+|LLR5	|Tacks Sleep Time|
+
+# BLOCK DIAGRAM
 
 ![Drawing2](https://user-images.githubusercontent.com/99134492/154841270-c15c22e9-0318-4b48-8d4c-c0f526648874.jpeg)
 
