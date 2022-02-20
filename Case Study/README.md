@@ -73,13 +73,13 @@ Electric meter or energy meter is a device that measures the amount of electrica
 
 # **MID LEVEL CASE STUDY**
 
-## FITNESS TRACKER WATCH
+# FITNESS TRACKER WATCH
 
-## INTRODUCTION
+# INTRODUCTION
 
 Fitness tracker watch is a device for monitoring and tracking fitness-related metrics such as distance walked or run, calorie consumption, and in some cases heartbeat. It is a type of wearable computer. The term is now primarily used for smartwatches that are synced, in many cases wirelessly, to a computer or smartphone for long-term data tracking.
 
-# Requirements
+# REQUIREMWNTS
 
 ## High level requirements:
 
