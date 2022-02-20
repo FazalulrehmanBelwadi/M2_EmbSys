@@ -3,6 +3,25 @@
 ## INTRODUCTION
 Electric meter or energy meter is a device that measures the amount of electrical energy consumed. The most common unit of measurement on the electricity measurement is the kilowatt hour [kWh], which is equal to the amount of energy used by a load of one kilowatt hour over a period of one hour.
 
+# REQUIREMENTS
+
+## High Level Requirements:
+
+|RID	|DESCRIPTION |
+|---- |----|
+|HLR1	|To measure Energy Consumption of User |
+|HLR2	|To measure Volatage in Volts|
+|HLR3	|To measure Current in Amps |
+|HLR3	|To Check for Invalid smart card|
+
+
+## Low Level Requirement:
+|RID	|DESCRIPTION |
+|---- |----|
+|LLR1	|To Display calculated Real power |
+|LLR2	|Display Status of Smart Card|
+
+
 ## BLOCK DIAGRAM
 ![Drawing](https://user-images.githubusercontent.com/99134492/154836005-d2eeeda9-46fc-4360-9e81-7d2e43f67334.png)
 
@@ -76,9 +95,9 @@ Electric meter or energy meter is a device that measures the amount of electrica
 
 Fitness tracker watch is a device for monitoring and tracking fitness-related metrics such as distance walked or run, calorie consumption, and in some cases heartbeat. It is a type of wearable computer. The term is now primarily used for smartwatches that are synced, in many cases wirelessly, to a computer or smartphone for long-term data tracking.
 
-# REQUIREMWNTS
+# REQUIREMENTS
 
-## High level requirements:
+## High Level Requirements:
 
 |RID	|DESCRIPTION |
 |---- |----|
