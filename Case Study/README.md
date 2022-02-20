@@ -22,7 +22,7 @@ Electric meter or energy meter is a device that measures the amount of electrica
 |LLR2	|Display Status of Smart Card|
 
 
-## BLOCK DIAGRAM
+# BLOCK DIAGRAM
 ![Drawing](https://user-images.githubusercontent.com/99134492/154836005-d2eeeda9-46fc-4360-9e81-7d2e43f67334.png)
 
 
