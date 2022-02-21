@@ -83,19 +83,6 @@ Electric meter or energy meter is a device that measures the amount of electrica
 * Every electronic circuit needs appropriate power supply for its operation.
 * Microcontrollers, Energy Meter ICs, Liquid crystal display and relays operate on ±5 volts supply. 
 * For this reason, we have used a ±5 volt power supply.  
-## Uses of ammeter:
-
-* The application of this device will range from school to industry.
-* These are used to measure the current flow in the building to ensure that the flow is not too low or too high.
-* It is used with a thermocouple to check the temperature.
-* These current flowing through the coil produces the desire deflecting torque.
-* Electricians frequently use these devices to check the faults of the circuits in the building.
-* It is used in manufacturing and instrumentation companies to check the functionally of the devices.
-* This instrument is used to measure current in the circuit.
-* It is always connected series in the circuit and carries the current to be measure,
-* It is used with a thermocouple to check the temperature.
-* When PMMC is used as an ammeter, except for a very small current range, the moving coil is connected across a suitable low resistance in shunt, so that only a small part of the main current flow through the coil of the device.
-* The shunt consists of a number of thin plates made up of alloy metal, which is usually magnetic and has a low-temperature coefficient of resistance, fixed between two massive blocks of copper. A resistor of the same alloy is also placed in series with the coil which reduces due to temperature variation.
 # Flow chart for energy meter  
 
 ![Drawing1 (1)](https://user-images.githubusercontent.com/99134492/154857078-56edb766-c86f-4d38-a639-5a8a44e7eba9.png)
