@@ -204,8 +204,22 @@ Fitness tracker watch is a device for monitoring and tracking fitness-related me
 * LCD (Liquid Crystal Display) is a type of flat panel display which uses liquid crystals in its primary form of operation. 
 * It is used to display all the measured data.
 
+### Applications
+•	Accountability. 
 
+•	Motivation. .
 
+•	Healthy eating.
+
+•	Set goals.
+
+•	Tracks sleep.
+
+•	Stay Connected.
+
+•	Monitors Heart Rate.
+
+•   Alarm
 
 
 
