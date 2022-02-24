@@ -1,21 +1,22 @@
-# **GREENHOUSE AUTOMATION SYSTEM**
+# **GREENHOUSE MONITORING AND AUTOMATION SYSTEM**
 
 # INTRODUCTION
 
-* Crop cultivation has been around for a longtime. It plays a crucial role in the continuous
-development of human civilization. 
-* Traditional crop cultivation requires a tremendous amount of
-hard work and attention and there are several disadvantages in implementing traditional
-cultivation techniques:
-  * Weather dependent factors: plants growth and development are primarily governed by the
-weather conditions.
-  * Pests and diseases: plants growing under traditional cultivation technique 
-are significantly affected by pests and diseases.
+* Greenhouse, also called glasshouse, building designed for the protection of tender or out-of-season plants against excessive cold or heat
 
-* A greenhouse allows the growers to produce plants in places where the climate would otherwise be unfeasible for the growing of plants. 
-* The production of crop plants is independent of the geographic location and the time of the year.
-* The greenhouse also provides shelter for the plants, protects them from harsh weather conditions, insects and diseases.
-* A green House System is requrired.
+* A green house is where plants such as flowers and vegetables are grown. Greenhouses warmup during the day when sun-rays penetrates through it, which heats the plant, soil and structure.
+
+* Green houses help to protect crops from many diseases, particularly those that are soil borne and splash onto plants in the rain. 
+
+* Greenhouse effect is a natural phenomenon and beneficial to human being. Numerous farmers fail to get good profits from the greenhouse crops for the reason that they can’t manage two essential factors, which determines plant growth as well as productivity.
+
+* Green house temperature should not go below a certain degree, High humidity can result to crop transpiration, condensation of water vapour on various greenhouse surfaces, and water evaporation from the humid soil.
+
+* To overcome such challenges, this greenhouse monitoring and automation system comes to rescue. This project demonstrates the design and implementation of a various sensors for greenhouse environment to monitoring and controlling.
+
+# OBJECTIVES:
+
+ The main objective of this project is to Monitor and Control the Greenhouse by means of measuring and maintaining volumetric water content in soil, temperature ,humidity and finally display all relevant data in LCD 
 
 # SWOT ANALYSIS
 
@@ -63,15 +64,21 @@ This Green house Automation System System can bs used by installing various sens
 
 |RID	|DESCRIPTION |
 |---- |----|
-|HLR1	|Turn on the exaust fan when humidity increases |
-|HLR2	|Turn on the air cooler when tempreture increases|
-|HLR3	|Switch off the exaust fan when humidity decreases |
-|HLR4	|Switch off the air cooler when tempreture decreases |
-|HLR4   |Display all measured value in LCD |
+|HLR1	|To measure the volumetric water content of the soil|
+|HLR2	|Turn on the Motor volumetric water content of the soil decreases|
+|HLR3	|To sense the Tempreture for increasing and decreasing values|
+|HLR4	|To detect the day or night |
+|HLR5 |To operate pump when desired|
+|HLR6 |To detect entrance and exit of any visitor|
+|HLR7 |Display all measured value in LCD |
 
 ## Low Level Requirement:
 
 |RID	|DESCRIPTION |
 |---- |----|
-|LLR1	|Should Turn on the LED when tempreture increases |
-|LLR2	|Should Turn on the LED when humidity increases |
+|LLR1	|Should Turn on the LED when tempreture increases beyond threshold |
+|LLR2	|Notify the water conetent of the soil usig LED|
+|LLR3 |Notify the entrance and exit of any visitor through LED|
+|LLR4 |To Control the lights of the greenhouse|
+
+
