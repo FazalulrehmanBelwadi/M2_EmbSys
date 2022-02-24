@@ -94,6 +94,9 @@ This Greenhouse Monitoring and Automation System System can bs used by installin
 
 # BLOCK DIAGRAM:
 
+![Drawing4 (1)](https://user-images.githubusercontent.com/99134492/155565141-1ccb53c9-bdc5-4cb2-9a8c-8b3bd90357bd.png)
+
+
 ## BLOCK DIAGRAM DISCRIPTION:
 
 ### Microcontroller:
