@@ -10,5 +10,4 @@
 
 
 # Sequence Diagram :
-![3 drawio (1)](https://user-images.githubusercontent.com/99134492/155675579-0f5bc0e6-f549-4e3b-9526-b5be92a28837.svg)
-
+![23](https://user-images.githubusercontent.com/99134492/155676605-d07b9abc-2b9c-4b74-aab7-fc567d87d7c0.jpg)
