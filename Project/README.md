@@ -149,6 +149,14 @@ A DC motor is interfaced at bit 5 of Port D of the AVR. This motor is for demons
 * The circuit can be powered by a battery and 5V regulator IC like 7805. 
 * It can also be powered through AC mains by using a step down transformer and rectifier circuit with 7805 voltage regulator.
 
+## User Case Diagram :
+
+![1](https://user-images.githubusercontent.com/99134492/155676081-debe67f3-91bd-4d62-8f0a-b8d002b56f3a.jpg)
+
+## Sequence Diagram :
+
+![23](https://user-images.githubusercontent.com/99134492/155676605-d07b9abc-2b9c-4b74-aab7-fc567d87d7c0.jpg)
+
 
 # ADVANTAGES AND DISADVANTAGES:
 
