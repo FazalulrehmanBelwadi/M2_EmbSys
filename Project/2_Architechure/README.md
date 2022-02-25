@@ -5,8 +5,9 @@
 
 # User Case Diagram :
 
-![1](https://user-images.githubusercontent.com/99134492/155675307-16298f92-83e0-42bc-9714-57ef4d8f6cda.JPG)
+![2](https://user-images.githubusercontent.com/99134492/155675424-d6f2e98c-89c5-4592-996e-a9db5f140376.svg)
 
 
 # Sequence Diagram :
-![Capture](https://user-images.githubusercontent.com/99134492/155675326-a40dec9c-333e-47df-83b6-92a379f1b351.JPG)
+![3 drawio (1)](https://user-images.githubusercontent.com/99134492/155675579-0f5bc0e6-f549-4e3b-9526-b5be92a28837.svg)
+
