@@ -165,8 +165,14 @@ A DC motor is interfaced at bit 5 of Port D of the AVR. This motor is for demons
 * Can create a zero runoff system. As in Europe, we’re seeing more stringent water use restrictions in Canada where it is now law not to discard of waste water.
 * Extreme ROI: payback can be achieved for all sizes of greenhouse projects but generally speaking, the larger the project, the more economically feasible.
 
-# Disadvantages 
+## Disadvantages 
 
 * High upfront and operating expenses
 * Lack of pollination
 * Careful precautions must be taken to eliminate any pest or diseases to make sure your next crop won’t be affected
+
+
+# FUTURE SCOPE
+
+* The circuit can be improved in many ways and can be used in wide applications. It can be placed and operated in any of the environmental conditions. Non-conventional energy sources such as solar panels, wind mills are used to supply power to the automatic greenhouse equipment. The energy produced can be used for automation purpose like in home to control light and fan. In our project we have made a prototype taking only three sensor for light, temperature and soil moisrure into consideration. We can use this system for many sensors as a future use of this project. And in the future by using limited number of sensors we can maintain the greenhouse at specific environmental conditions. 
+* Also we can use a 360 degree camera module to click pictures of leaves from various angles so that we can detect health of a plant and distinguish between healthy and infected plant and detect the exact disease which a plant can have by this proposed project in the future.
