@@ -5,7 +5,8 @@
 
 # User Case Diagram :
 
-![2](https://user-images.githubusercontent.com/99134492/155675424-d6f2e98c-89c5-4592-996e-a9db5f140376.svg)
+![1](https://user-images.githubusercontent.com/99134492/155676081-debe67f3-91bd-4d62-8f0a-b8d002b56f3a.jpg)
+
 
 
 # Sequence Diagram :
