@@ -199,7 +199,8 @@ A DC motor is interfaced at bit 5 of Port D of the AVR. This motor is for demons
 * Air quality and water quality monitoring.
 * Better Infotainment delivery.
 * Lighting control.
-* 
+ 
+
 # FUTURE SCOPE
 
 * The circuit can be improved in many ways and can be used in wide applications. It can be placed and operated in any of the environmental conditions.
