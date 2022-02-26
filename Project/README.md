@@ -9,7 +9,13 @@
 |3 |SWOT Analysis|
 |4 |Requriments |
 |5 |Block Diagram|
-|6 |Advantages and Disadvantages|
+|6 |Use case Diagram|
+|7 |Sequence Diagram|
+|8 |Flow chart |
+|9 |Advantages and Disadvantages|
+|10|Applications|
+|11|Future scope|
+
 # ABSTRACT
 
 Greenhouse Monitoring and Automation System is the technical approach in which the farmers in the rural areas will be benefitted by automatic monitoring and controlling greenhouse environment. It replaces the direct supervision of the human. Greenhouse is abuilding where plants are grown in a controlled manner. In general, greenhouses are usually affected by the weather and plant diseases, as a result, their yield can be minimized and thus income is reduced. Through the analysis of the current situation of greenhouses, this system proposes a low-cost solution for identifying of infected plant leaves of agricultural greenhouse. The proposed system is an embedded system which will closely monitor the microclimatic parameters of a greenhouse on a regular basis round the clock for cultivation of crops or specific plant species. The purpose of this work is to design a labour free, sensor based greenhouse monitoring system. The system comprises of microcontroller and sensors. Since a microcontroller is used as the heart of the system, it makes the set-up low-cost and effective nevertheless and flexible. This embedded system has three sensors, they are temperature sensor, ldr sensor and
@@ -185,7 +191,15 @@ A DC motor is interfaced at bit 5 of Port D of the AVR. This motor is for demons
 * Lack of pollination
 * Careful precautions must be taken to eliminate any pest or diseases to make sure your next crop won’t be affected
 
-
+# Applications
+* Lightening Systems.
+* Rural area Implementation
+* Lawn/Gardening management.
+* Improved  safety and security.
+* Air quality and water quality monitoring.
+* Better Infotainment delivery.
+* Lighting control.
+* 
 # FUTURE SCOPE
 
 * The circuit can be improved in many ways and can be used in wide applications. It can be placed and operated in any of the environmental conditions.
