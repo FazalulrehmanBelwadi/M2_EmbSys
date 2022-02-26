@@ -62,3 +62,6 @@ A DC motor is interfaced at bit 5 of Port D of the AVR. This motor is for demons
 
 # Sequence Diagram :
 ![23](https://user-images.githubusercontent.com/99134492/155676605-d07b9abc-2b9c-4b74-aab7-fc567d87d7c0.jpg)
+
+# Flow chart
+![s1 drawio (1)](https://user-images.githubusercontent.com/99134492/155839733-247bfddc-70c7-4c98-93a5-3c275bd4a668.png)
