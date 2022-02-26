@@ -10,6 +10,10 @@
 |4 |Requriments |
 |5 |Block Diagram|
 |6 |Advantages and Disadvantages|
+# ABSTRACT
+
+Greenhouse Monitoring and Automation System is the technical approach in which the farmers in the rural areas will be benefitted by automatic monitoring and controlling greenhouse environment. It replaces the direct supervision of the human. Greenhouse is abuilding where plants are grown in a controlled manner. In general, greenhouses are usually affected by the weather and plant diseases, as a result, their yield can be minimized and thus income is reduced. Through the analysis of the current situation of greenhouses, this system proposes a low-cost solution for identifying of infected plant leaves of agricultural greenhouse. The proposed system is an embedded system which will closely monitor the microclimatic parameters of a greenhouse on a regular basis round the clock for cultivation of crops or specific plant species. The purpose of this work is to design a labour free, sensor based greenhouse monitoring system. The system comprises of microcontroller and sensors. Since a microcontroller is used as the heart of the system, it makes the set-up low-cost and effective nevertheless and flexible. This embedded system has three sensors, they are temperature sensor, ldr sensor and
+soil moisture sensor. As the system also employs an LCD display for continuously alerting the user about the condition inside the greenhouse, the entire set-up becomes user friendly. Nowadays due to urbanization and lack of land availability there is a great need to construct the Greenhouses which will be reserved mainly for growing crops
 
 # INTRODUCTION
 
