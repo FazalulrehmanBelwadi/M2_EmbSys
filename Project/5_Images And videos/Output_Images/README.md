@@ -4,11 +4,11 @@
 ![1_Circuit Diagram](https://user-images.githubusercontent.com/99134492/157268848-bfcd4566-0d1c-497a-b34f-f00fba303416.JPG)
 
 
-## TEMPRETURE IS NORMAL
+## TEMPERATURE IS NORMAL
 ![2_Temp is Normal fan OFF](https://user-images.githubusercontent.com/99134492/157268907-bfcad199-38cc-4bd1-afe5-e358849c7323.JPG)
 
 
-## TEMPRETURE IS HIGH
+## TEMPERATURE IS HIGH
 ![3_Temp is high fan on](https://user-images.githubusercontent.com/99134492/157268935-478994b4-1bf8-4abe-bee5-0157fabe0175.JPG)
 
 
@@ -20,7 +20,7 @@
 ![5_Low Moisture Pump is On](https://user-images.githubusercontent.com/99134492/157268970-f781ce28-06d5-4480-a28a-108418fb51e7.JPG)
 
 
-## DAY IS DTECTED
+## DAY IS DETECTED
 ![6_Day detected Led is on](https://user-images.githubusercontent.com/99134492/157268985-e96d4cd4-1e9b-4e77-bd20-19125a6cabd7.JPG)
 
 
@@ -36,7 +36,7 @@
 ![9_Motion is detected LEd is On](https://user-images.githubusercontent.com/99134492/157269035-a8b08db3-c1bd-47e8-a323-a87196d50066.JPG)
 
 
-## WHEN ALL SENSORS ARE TRIGGRED AT ONCE
+## WHEN ALL SENSORS ARE TRIGGERED AT ONCE
 ![10_ALL sensors](https://user-images.githubusercontent.com/99134492/157269048-88bd4764-7a8d-4896-8740-a4d5a81134cc.JPG)
 
 
