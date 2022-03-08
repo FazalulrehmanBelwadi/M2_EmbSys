@@ -53,6 +53,23 @@
 |LLT4.3 |Test for LDR sensor  | When the value is below 150 LUX|Night is Detected|Night is dectected|✅ |
 |LLT4.4 |Test for LDR sensor  | When the value is above 150 LUX|Day is Detected |Day is Detected |✅|
 
+## Tested Output on Temprature Sensor
 
+![Temp is high fan on](https://user-images.githubusercontent.com/99134492/157259913-d1b886da-8691-4667-81c2-ffc78de13655.JPG)
 
+## Tested Output on Soil Moisture Sensor
+
+![Low Moisture Pump is On](https://user-images.githubusercontent.com/99134492/157260068-4d67375d-6c6c-4ea0-ba05-27d45cebd104.JPG)
+
+## Tested Output on Motion Sensor
+
+![Motion is detected LEd is On](https://user-images.githubusercontent.com/99134492/157260141-19bea815-53ea-4ad5-8edd-9c3fdda19c70.JPG)
+
+## Tested Output on LDR Sensor
+
+![Night detected Led is on](https://user-images.githubusercontent.com/99134492/157260241-0aa74e74-d28b-4c59-bd24-8f78d818197f.JPG)
+
+# Output  of All Sensors
+ 
+https://user-images.githubusercontent.com/99134492/157260622-3f48fac0-69c9-45b8-b0c0-fa79945672bb.mp4
 
