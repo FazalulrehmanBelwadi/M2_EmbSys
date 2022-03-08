@@ -1,14 +1,13 @@
 # **BLOCK DIAGRAM**!
 
-![Drawing4 (1)](https://user-images.githubusercontent.com/99134492/155675260-0303b337-a058-497f-8ced-7505e3504799.png)
+![1_Block_diagram](https://user-images.githubusercontent.com/99134492/157261068-613c1ddf-a555-4d2e-a89d-a7395e89461c.png)
+
 
 ## BLOCK DIAGRAM DISCRIPTION:
 
 ### Microcontroller:
 
-* A microcontroller (MCU for microcontroller unit) is a small computer on a single metal-oxide-semiconductor (MOS) integrated circuit (IC) chip.
-* A microcontroller contains one or more CPUs (processor cores) along with memory and programmable input/output peripherals.
-* ATmega16 is 8-bit AVR microcontroller with 32 I/O pins. It is interfaced with sensors and character LCD to design the circuit of this project.
+The Arduino UNO is the best board to get started with electronics and coding. If this is your first experience tinkering with the platform, the UNO is the most robust board you can start playing with. The UNO is the most used and documented board of the whole Arduino family.
 
 ### LCD Display:
 
@@ -30,16 +29,17 @@
 * The LDR sensor is used to detect day or night in this circuit. The LDR sensor is two-terminal light sensitive resistor. 
 * It is connected as a voltage divider network at bit 0 of Port A of the ATmega16.
 
-### IR Sensors:
-
-* There are two IR sensor modules used in the project. The two modules are used to detect entrance and exit of a visitor. 
-* Each sensor module is built from a pair of IR Transmitter and IR Receiver. 
-* The emitter is simply an IR LED and the detector is simply an IR photodiode which is sensitive to IR light of the same wavelength as emitted by the IR LED.
+### PIR Motion Sensor
+PIR sensor or PIR motion sensor is the kind of sensor that measures the Infrared radiations released from objects and thus identify them as moving or still objects.
 
 ### LEDs:
 
 * There are 4 LEDs interfaced at bits 0, 1, 2, and 3 of Port B of ATmega16. 
 * These LEDs are for demonstration purpose to show control of lighting in the garden. In a practical version of the circuit, there could be LED lights controlled through relays by the controller.
+
+### Relay
+A relay is an electrically operated switch. It consists of a set of input terminals for a single or multiple control signals, and a set of operating contact terminals.
+
 
 ### Voltage regulator
 
@@ -55,13 +55,12 @@ A DC motor is interfaced at bit 5 of Port D of the AVR. This motor is for demons
 * It can also be powered through AC mains by using a step down transformer and rectifier circuit with 7805 voltage regulator.
 
 # User Case Diagram :
-
-![1](https://user-images.githubusercontent.com/99134492/155676081-debe67f3-91bd-4d62-8f0a-b8d002b56f3a.jpg)
-
+![2_Usercase Diagram](https://user-images.githubusercontent.com/99134492/157261894-21888bba-54e8-48ee-9aa9-f866c0f55519.JPG)
 
 
 # Sequence Diagram :
-![23](https://user-images.githubusercontent.com/99134492/155676605-d07b9abc-2b9c-4b74-aab7-fc567d87d7c0.jpg)
+![3_Sequence Diagram](https://user-images.githubusercontent.com/99134492/157261924-290015f8-51cb-410d-b2fa-65d7c2b7be8c.jpg)
+
 
 # Flow chart
 ![s1 drawio (1)](https://user-images.githubusercontent.com/99134492/155839733-247bfddc-70c7-4c98-93a5-3c275bd4a668.png)
