@@ -27,7 +27,7 @@ The Arduino UNO is the best board to get started with electronics and coding. If
 ### LDR Sensor: 
 
 * The LDR sensor is used to detect day or night in this circuit. The LDR sensor is two-terminal light sensitive resistor. 
-* It is connected as a voltage divider network at bit 0 of Port A of the ATmega16.
+* It is connected as a voltage divider network at bit 0 of Port A of the Aurdiuno
 
 ### PIR Motion Sensor
 PIR sensor or PIR motion sensor is the kind of sensor that measures the Infrared radiations released from objects and thus identify them as moving or still objects.
