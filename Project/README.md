@@ -9,7 +9,17 @@
 |3 |SWOT Analysis|
 |4 |Requriments |
 |5 |Block Diagram|
-|6 |Advantages and Disadvantages|
+|6 |Use case Diagram|
+|7 |Sequence Diagram|
+|8 |Flow chart |
+|9 |Advantages and Disadvantages|
+|10|Applications|
+|11|Future scope|
+
+# ABSTRACT
+
+Greenhouse Monitoring and Automation System is the technical approach in which the farmers in the rural areas will be benefitted by automatic monitoring and controlling greenhouse environment. It replaces the direct supervision of the human. Greenhouse is abuilding where plants are grown in a controlled manner. In general, greenhouses are usually affected by the weather and plant diseases, as a result, their yield can be minimized and thus income is reduced. Through the analysis of the current situation of greenhouses, this system proposes a low-cost solution for identifying of infected plant leaves of agricultural greenhouse. The proposed system is an embedded system which will closely monitor the microclimatic parameters of a greenhouse on a regular basis round the clock for cultivation of crops or specific plant species. The purpose of this work is to design a labour free, sensor based greenhouse monitoring system. The system comprises of microcontroller and sensors. Since a microcontroller is used as the heart of the system, it makes the set-up low-cost and effective nevertheless and flexible. This embedded system has three sensors, they are temperature sensor, ldr sensor and
+soil moisture sensor. As the system also employs an LCD display for continuously alerting the user about the condition inside the greenhouse, the entire set-up becomes user friendly. Nowadays due to urbanization and lack of land availability there is a great need to construct the Greenhouses which will be reserved mainly for growing crops
 
 # INTRODUCTION
 
@@ -157,6 +167,8 @@ A DC motor is interfaced at bit 5 of Port D of the AVR. This motor is for demons
 
 ![23](https://user-images.githubusercontent.com/99134492/155676605-d07b9abc-2b9c-4b74-aab7-fc567d87d7c0.jpg)
 
+## Flow Chart
+![s1 drawio (1)](https://user-images.githubusercontent.com/99134492/155839733-247bfddc-70c7-4c98-93a5-3c275bd4a668.png)
 
 # ADVANTAGES AND DISADVANTAGES:
 
@@ -179,8 +191,19 @@ A DC motor is interfaced at bit 5 of Port D of the AVR. This motor is for demons
 * Lack of pollination
 * Careful precautions must be taken to eliminate any pest or diseases to make sure your next crop won’t be affected
 
+# Applications
+* Lightening Systems.
+* Rural area Implementation
+* Lawn/Gardening management.
+* Improved  safety and security.
+* Air quality and water quality monitoring.
+* Better Infotainment delivery.
+* Lighting control.
+ 
 
 # FUTURE SCOPE
 
-* The circuit can be improved in many ways and can be used in wide applications. It can be placed and operated in any of the environmental conditions. Non-conventional energy sources such as solar panels, wind mills are used to supply power to the automatic greenhouse equipment. The energy produced can be used for automation purpose like in home to control light and fan. In our project we have made a prototype taking only three sensor for light, temperature and soil moisrure into consideration. We can use this system for many sensors as a future use of this project. And in the future by using limited number of sensors we can maintain the greenhouse at specific environmental conditions. 
+* The circuit can be improved in many ways and can be used in wide applications. It can be placed and operated in any of the environmental conditions.
+*  Non-conventional energy sources such as solar panels, wind mills are used to supply power to the automatic greenhouse equipment. The energy produced can be used for automation purpose like in home to control light and fan. In our project we have made a prototype taking only three sensor for light, temperature and soil moisrure into consideration. 
+*  We can use this system for many sensors as a future use of this project. And in the future by using limited number of sensors we can maintain the greenhouse at specific environmental conditions. 
 * Also we can use a 360 degree camera module to click pictures of leaves from various angles so that we can detect health of a plant and distinguish between healthy and infected plant and detect the exact disease which a plant can have by this proposed project in the future.
