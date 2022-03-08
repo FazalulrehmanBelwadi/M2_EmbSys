@@ -4,11 +4,11 @@
 ![1_Circuit Diagram](https://user-images.githubusercontent.com/99134492/157268848-bfcd4566-0d1c-497a-b34f-f00fba303416.JPG)
 
 
-## TEMPRETURE IS NORMAL
+## TEMPERATURE IS NORMAL
 ![2_Temp is Normal fan OFF](https://user-images.githubusercontent.com/99134492/157268907-bfcad199-38cc-4bd1-afe5-e358849c7323.JPG)
 
 
-## TEMPRETURE IS HIGH
+## TEMPERATURE IS HIGH
 ![3_Temp is high fan on](https://user-images.githubusercontent.com/99134492/157268935-478994b4-1bf8-4abe-bee5-0157fabe0175.JPG)
 
 
