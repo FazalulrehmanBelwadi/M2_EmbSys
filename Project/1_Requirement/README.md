@@ -1,4 +1,4 @@
-# **GREENHOUSE MONITORING AND AUTOMATION SYSTEM**
+# **GREENHOUSE AUTOMATION SYSTEM**
 
 # INTRODUCTION
 
@@ -12,7 +12,7 @@
 
 * Green house temperature should not go below a certain degree, High humidity can result to crop transpiration, condensation of water vapour on various greenhouse surfaces, and water evaporation from the humid soil.
 
-* To overcome such challenges, this greenhouse monitoring and automation system comes to rescue. This project demonstrates the design and implementation of a various sensors for greenhouse environment to monitoring and controlling.
+* To overcome such challenges, this greenhouse automation system comes to rescue. This project demonstrates the design and implementation of a various sensors for greenhouse environment to monitoring and controlling.
 
 # OBJECTIVES:
 
