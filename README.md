@@ -2,7 +2,8 @@
 
 #  Badges
 
-
+![Code grade](https://api.codiga.io/project/31034/score/svg)
+![Code grade](https://api.codiga.io/project/31034/status/svg)
 
 ## Codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/27f368e7f9fa40b3958e5772de34e08b)](https://www.codacy.com/gh/FazalulrehmanBelwadi/M2_EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=FazalulrehmanBelwadi/M2_EmbSys&amp;utm_campaign=Badge_Grade)
